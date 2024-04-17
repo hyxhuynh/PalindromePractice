@@ -1,0 +1,14 @@
+C:\HyHuynh\TrueCoders\repos\PalindromePractice\PalindromePractice\bin\Debug\net8.0\PalindromePractice.exe
+C:\HyHuynh\TrueCoders\repos\PalindromePractice\PalindromePractice\bin\Debug\net8.0\PalindromePractice.deps.json
+C:\HyHuynh\TrueCoders\repos\PalindromePractice\PalindromePractice\bin\Debug\net8.0\PalindromePractice.runtimeconfig.json
+C:\HyHuynh\TrueCoders\repos\PalindromePractice\PalindromePractice\bin\Debug\net8.0\PalindromePractice.dll
+C:\HyHuynh\TrueCoders\repos\PalindromePractice\PalindromePractice\bin\Debug\net8.0\PalindromePractice.pdb
+C:\HyHuynh\TrueCoders\repos\PalindromePractice\PalindromePractice\obj\Debug\net8.0\PalindromePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\HyHuynh\TrueCoders\repos\PalindromePractice\PalindromePractice\obj\Debug\net8.0\PalindromePractice.AssemblyInfoInputs.cache
+C:\HyHuynh\TrueCoders\repos\PalindromePractice\PalindromePractice\obj\Debug\net8.0\PalindromePractice.AssemblyInfo.cs
+C:\HyHuynh\TrueCoders\repos\PalindromePractice\PalindromePractice\obj\Debug\net8.0\PalindromePractice.csproj.CoreCompileInputs.cache
+C:\HyHuynh\TrueCoders\repos\PalindromePractice\PalindromePractice\obj\Debug\net8.0\PalindromePractice.dll
+C:\HyHuynh\TrueCoders\repos\PalindromePractice\PalindromePractice\obj\Debug\net8.0\refint\PalindromePractice.dll
+C:\HyHuynh\TrueCoders\repos\PalindromePractice\PalindromePractice\obj\Debug\net8.0\PalindromePractice.pdb
+C:\HyHuynh\TrueCoders\repos\PalindromePractice\PalindromePractice\obj\Debug\net8.0\PalindromePractice.genruntimeconfig.cache
+C:\HyHuynh\TrueCoders\repos\PalindromePractice\PalindromePractice\obj\Debug\net8.0\ref\PalindromePractice.dll
